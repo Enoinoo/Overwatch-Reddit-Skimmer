@@ -7,3 +7,5 @@ In this web page, the titles and content previews of recent 10 posts are display
 I believe you can easily tell which ones are titles which ones are previews.
 
 How to use the web page: scroll. 
+
+Source Code Viewing Instruction: The only important files are App.js and Reddits.js under the src folder. 
